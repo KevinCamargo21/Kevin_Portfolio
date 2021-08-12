@@ -1,6 +1,3 @@
-# Kevin_Portfolio
-Data Analytics Portfolio
-
 ## [Project 1: Capstone Project - Cyclistic: Members vs Casual Users](https://github.com/KevinCamargo21/Capstone-Project)
 
 * The goal for this analysis is to find out how annual members and casual riders use Cyclistic bikes
