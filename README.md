@@ -6,7 +6,7 @@ differently.
 * This analysis will help the marketing team develop a strategy to convert casual riders into annual members.
 
 ### Code and Resources Used
-* **RStudio Version:** 1.1.463
+* **RStudio Version:** 3.6.3
 * **Packages:** tidyverse, janitor, skimr, formatR, readr, ggplot2, lubridate
 * **Data Source:** Cyclistic trip data from Q2 2019 to Q1 2020
 
